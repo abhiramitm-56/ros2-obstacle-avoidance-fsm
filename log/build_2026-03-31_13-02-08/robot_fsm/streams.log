@@ -1,0 +1,36 @@
+[0.457s] Invoking command in '/home/abhirami/test_ws/src/robot_fsm': PYTHONPATH=/home/abhirami/test_ws/build/robot_fsm/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abhirami/test_ws/install/robot_fsm/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robot_fsm build --build-base /home/abhirami/test_ws/build/robot_fsm/build install --record /home/abhirami/test_ws/build/robot_fsm/install.log --single-version-externally-managed install_data
+[0.622s] running egg_info
+[0.622s] creating ../../build/robot_fsm/robot_fsm.egg-info
+[0.622s] writing ../../build/robot_fsm/robot_fsm.egg-info/PKG-INFO
+[0.622s] writing dependency_links to ../../build/robot_fsm/robot_fsm.egg-info/dependency_links.txt
+[0.622s] writing entry points to ../../build/robot_fsm/robot_fsm.egg-info/entry_points.txt
+[0.622s] writing requirements to ../../build/robot_fsm/robot_fsm.egg-info/requires.txt
+[0.622s] writing top-level names to ../../build/robot_fsm/robot_fsm.egg-info/top_level.txt
+[0.622s] writing manifest file '../../build/robot_fsm/robot_fsm.egg-info/SOURCES.txt'
+[0.623s] reading manifest file '../../build/robot_fsm/robot_fsm.egg-info/SOURCES.txt'
+[0.624s] writing manifest file '../../build/robot_fsm/robot_fsm.egg-info/SOURCES.txt'
+[0.624s] running build
+[0.624s] running build_py
+[0.624s] creating /home/abhirami/test_ws/build/robot_fsm/build
+[0.624s] creating /home/abhirami/test_ws/build/robot_fsm/build/lib
+[0.624s] creating /home/abhirami/test_ws/build/robot_fsm/build/lib/robot_fsm
+[0.624s] copying robot_fsm/__init__.py -> /home/abhirami/test_ws/build/robot_fsm/build/lib/robot_fsm
+[0.624s] copying robot_fsm/obstacle_avoidance.py -> /home/abhirami/test_ws/build/robot_fsm/build/lib/robot_fsm
+[0.624s] running install
+[0.624s] running install_lib
+[0.625s] creating /home/abhirami/test_ws/install/robot_fsm/lib/python3.10/site-packages/robot_fsm
+[0.625s] copying /home/abhirami/test_ws/build/robot_fsm/build/lib/robot_fsm/__init__.py -> /home/abhirami/test_ws/install/robot_fsm/lib/python3.10/site-packages/robot_fsm
+[0.625s] copying /home/abhirami/test_ws/build/robot_fsm/build/lib/robot_fsm/obstacle_avoidance.py -> /home/abhirami/test_ws/install/robot_fsm/lib/python3.10/site-packages/robot_fsm
+[0.625s] byte-compiling /home/abhirami/test_ws/install/robot_fsm/lib/python3.10/site-packages/robot_fsm/__init__.py to __init__.cpython-310.pyc
+[0.625s] byte-compiling /home/abhirami/test_ws/install/robot_fsm/lib/python3.10/site-packages/robot_fsm/obstacle_avoidance.py to obstacle_avoidance.cpython-310.pyc
+[0.626s] running install_data
+[0.626s] creating /home/abhirami/test_ws/install/robot_fsm/share/ament_index
+[0.626s] creating /home/abhirami/test_ws/install/robot_fsm/share/ament_index/resource_index
+[0.626s] creating /home/abhirami/test_ws/install/robot_fsm/share/ament_index/resource_index/packages
+[0.626s] copying resource/robot_fsm -> /home/abhirami/test_ws/install/robot_fsm/share/ament_index/resource_index/packages
+[0.626s] copying package.xml -> /home/abhirami/test_ws/install/robot_fsm/share/robot_fsm
+[0.626s] running install_egg_info
+[0.627s] Copying ../../build/robot_fsm/robot_fsm.egg-info to /home/abhirami/test_ws/install/robot_fsm/lib/python3.10/site-packages/robot_fsm-0.0.0-py3.10.egg-info
+[0.627s] running install_scripts
+[0.642s] writing list of installed files to '/home/abhirami/test_ws/build/robot_fsm/install.log'
+[0.657s] Invoked command in '/home/abhirami/test_ws/src/robot_fsm' returned '0': PYTHONPATH=/home/abhirami/test_ws/build/robot_fsm/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abhirami/test_ws/install/robot_fsm/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robot_fsm build --build-base /home/abhirami/test_ws/build/robot_fsm/build install --record /home/abhirami/test_ws/build/robot_fsm/install.log --single-version-externally-managed install_data
