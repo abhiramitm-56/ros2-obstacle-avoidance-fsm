@@ -1,3 +1,0 @@
-[console_scripts]
-obstacle_avoidance = robot_fsm.obstacle_avoidance:main
-
