@@ -101,7 +101,7 @@ ros2 run robot_fsm obstacle_avoidance
 
 ## Design Decision
 
-This project is implemented as a **single ROS 2 node** for simplicity and low latency.
+This is implemented as a **single ROS 2 node** for simplicity and low latency.
 It can be further modularized into separate perception and decision nodes for scalability.
 
 
