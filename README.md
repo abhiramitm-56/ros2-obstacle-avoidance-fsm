@@ -18,9 +18,7 @@ The system follows a **reactive control approach**:
 
 ## System Architecture
 
-```
 /scan (LiDAR) → FSM Node → /cmd_vel (Robot Movement)
-```
 
 
 
