@@ -104,4 +104,6 @@ ros2 run robot_fsm obstacle_avoidance
 This is implemented as a **single ROS 2 node** for simplicity and low latency.
 It can be further modularized into separate perception and decision nodes for scalability.
 
+## Demo Video
 
+[![Watch Demo](https://img.youtube.com/vi/iu1-IlL1a_Y/0.jpg)](https://youtu.be/iu1-IlL1a_Y)
